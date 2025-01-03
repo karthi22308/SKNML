@@ -93,7 +93,7 @@ if st.button('Suggest Courses'):
     if recommended_courses:
         for course in recommended_courses:
             st.write(f"- {course}")
-        prompt = 'you are course recommendation ai her is a candidate  with a strength areas :'+strength_areas+'weak areas'+weak_areas+'give some udemy course sussgestions and improvement plan for this candidtae'
+        prompt = 'you are course recommendation ai her is a candidate  with a strength areas :'+str(strength_areas)+'weak areas'+str(weak_areas)+'give some udemy course sussgestions and improvement plan for this candidtae'
         st.write("GenAi Suggestions:")
         st.write(generate_response(prompt))
     else:
