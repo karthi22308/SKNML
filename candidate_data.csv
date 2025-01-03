@@ -1,0 +1,101 @@
+Candidate_ID,MCQ_Score,Project_Score,Strength_Areas,Weak_Areas
+C1,90,79,"['Machine Learning', 'Java', 'SQL']",['Git']
+C2,57,74,"['Java', 'Cloud Computing']","['SQL', 'Cloud Computing']"
+C3,51,67,"['SQL', 'Git']",['Git']
+C4,97,90,['Git'],['Cloud Computing']
+C5,67,94,"['Java', 'Cloud Computing', 'Python']",['Python']
+C6,65,85,['Machine Learning'],"['SQL', 'Java']"
+C7,64,64,['Git'],"['SQL', 'Machine Learning']"
+C8,58,93,"['Python', 'Machine Learning', 'Git']","['Cloud Computing', 'Machine Learning']"
+C9,97,70,"['Machine Learning', 'Cloud Computing']","['Java', 'Cloud Computing']"
+C10,56,99,"['Git', 'Machine Learning']","['Git', 'Machine Learning']"
+C11,93,99,"['Cloud Computing', 'Git', 'SQL']","['Java', 'Cloud Computing']"
+C12,97,53,"['Cloud Computing', 'SQL']","['SQL', 'Cloud Computing']"
+C13,84,64,"['Machine Learning', 'Python']","['Machine Learning', 'Cloud Computing']"
+C14,55,52,['Git'],['Python']
+C15,87,70,['Java'],['SQL']
+C16,77,75,"['Java', 'Machine Learning']",['Cloud Computing']
+C17,52,67,"['Git', 'Machine Learning', 'Cloud Computing']","['Java', 'Machine Learning']"
+C18,51,54,['Java'],['SQL']
+C19,55,63,"['Cloud Computing', 'Java', 'Git']","['Java', 'SQL']"
+C20,63,86,['Java'],"['Cloud Computing', 'Java']"
+C21,64,95,"['Java', 'Machine Learning']","['Machine Learning', 'SQL']"
+C22,82,70,['SQL'],"['SQL', 'Python']"
+C23,88,63,"['Python', 'Git', 'Machine Learning']","['Machine Learning', 'Git']"
+C24,51,91,"['Machine Learning', 'Cloud Computing', 'Python']",['Python']
+C25,85,81,['Python'],"['Cloud Computing', 'Git']"
+C26,62,75,"['Git', 'Java']","['Python', 'Machine Learning']"
+C27,95,91,['Cloud Computing'],['SQL']
+C28,91,79,"['SQL', 'Python']","['Git', 'Python']"
+C29,94,59,"['Python', 'Java']","['Python', 'Cloud Computing']"
+C30,84,66,"['Cloud Computing', 'Java', 'Machine Learning']","['Cloud Computing', 'Git']"
+C31,76,58,"['Cloud Computing', 'SQL']","['Cloud Computing', 'Git']"
+C32,64,65,['Git'],['SQL']
+C33,78,97,['Git'],"['Java', 'Git']"
+C34,87,85,"['Python', 'Git', 'Cloud Computing']","['Git', 'Cloud Computing']"
+C35,67,84,['SQL'],['Java']
+C36,50,66,"['Git', 'Java']",['Git']
+C37,98,97,"['Machine Learning', 'Java']","['Machine Learning', 'Java']"
+C38,60,87,['Cloud Computing'],"['Python', 'Machine Learning']"
+C39,94,77,"['Java', 'Cloud Computing', 'Git']",['Cloud Computing']
+C40,77,87,['Python'],"['Python', 'Cloud Computing']"
+C41,71,75,"['Python', 'Git']",['Git']
+C42,67,73,"['Java', 'Git']",['Java']
+C43,59,64,"['Java', 'Python']","['Git', 'Cloud Computing']"
+C44,63,58,"['Python', 'SQL']","['Java', 'Machine Learning']"
+C45,98,82,"['Cloud Computing', 'Machine Learning']",['Java']
+C46,71,81,"['Cloud Computing', 'Python', 'Git']","['Git', 'Python']"
+C47,56,55,['SQL'],"['Python', 'Machine Learning']"
+C48,55,98,['Java'],"['Machine Learning', 'Python']"
+C49,74,53,"['Cloud Computing', 'Machine Learning', 'Java']",['Cloud Computing']
+C50,56,57,"['SQL', 'Java', 'Machine Learning']","['Python', 'SQL']"
+C51,72,59,"['Python', 'Machine Learning', 'Git']",['Cloud Computing']
+C52,72,90,['Machine Learning'],"['Machine Learning', 'Python']"
+C53,88,60,['Git'],['SQL']
+C54,66,100,['Machine Learning'],"['Java', 'SQL']"
+C55,52,93,['Cloud Computing'],['SQL']
+C56,96,77,['Python'],"['SQL', 'Machine Learning']"
+C57,79,88,['Machine Learning'],['Git']
+C58,84,54,['Machine Learning'],['Git']
+C59,57,74,"['Java', 'Machine Learning', 'Cloud Computing']","['Cloud Computing', 'Git']"
+C60,74,74,"['Cloud Computing', 'Machine Learning']",['Java']
+C61,55,88,"['Machine Learning', 'SQL', 'Cloud Computing']","['Python', 'SQL']"
+C62,85,79,['Cloud Computing'],"['Python', 'Java']"
+C63,68,83,"['SQL', 'Git', 'Cloud Computing']",['Python']
+C64,90,66,"['Git', 'SQL']","['Machine Learning', 'Java']"
+C65,89,85,"['SQL', 'Java']","['Python', 'Java']"
+C66,73,50,['Python'],"['SQL', 'Python']"
+C67,86,93,"['Machine Learning', 'Java', 'Cloud Computing']","['Machine Learning', 'Cloud Computing']"
+C68,62,96,"['Git', 'Machine Learning', 'SQL']",['Python']
+C69,95,57,['SQL'],['SQL']
+C70,54,93,['Git'],"['Python', 'Java']"
+C71,52,84,"['SQL', 'Git']","['SQL', 'Python']"
+C72,92,98,"['Machine Learning', 'SQL']",['Python']
+C73,64,67,"['Cloud Computing', 'Machine Learning', 'Java']",['Machine Learning']
+C74,99,99,"['Machine Learning', 'SQL', 'Java']",['Python']
+C75,68,91,['SQL'],['Java']
+C76,55,71,['Java'],"['Git', 'Python']"
+C77,64,57,"['Machine Learning', 'Git', 'SQL']",['Java']
+C78,56,68,"['Machine Learning', 'Git']","['Python', 'SQL']"
+C79,74,77,"['SQL', 'Git', 'Cloud Computing']",['Python']
+C80,67,60,"['Python', 'SQL', 'Java']","['SQL', 'Python']"
+C81,79,79,['Cloud Computing'],"['Python', 'SQL']"
+C82,90,50,"['SQL', 'Java']",['Python']
+C83,73,96,['SQL'],['Cloud Computing']
+C84,60,96,['Cloud Computing'],['SQL']
+C85,73,66,"['Git', 'Python']",['Cloud Computing']
+C86,72,82,"['Cloud Computing', 'Python', 'Java']",['Cloud Computing']
+C87,63,98,['Java'],['Java']
+C88,92,61,"['Git', 'Machine Learning', 'Java']",['Git']
+C89,67,82,"['Machine Learning', 'Cloud Computing']",['Machine Learning']
+C90,94,56,['Python'],['Git']
+C91,93,90,['Java'],['Python']
+C92,91,69,"['SQL', 'Java']",['Machine Learning']
+C93,54,90,"['Git', 'Cloud Computing']",['Python']
+C94,88,82,"['Java', 'SQL', 'Python']","['SQL', 'Git']"
+C95,90,88,"['Cloud Computing', 'Git', 'Machine Learning']",['Git']
+C96,60,62,['Git'],"['Java', 'Machine Learning']"
+C97,84,59,"['Java', 'Git']",['SQL']
+C98,96,73,"['SQL', 'Python', 'Git']","['Python', 'Git']"
+C99,65,98,"['Git', 'Java']",['Machine Learning']
+C100,60,60,"['Java', 'Python']",['Java']
